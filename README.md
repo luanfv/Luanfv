@@ -3,6 +3,7 @@
 [![Site_Badge](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://luanfv-site.vercel.app/)
 
 ## Tecnologias 
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&style=flat-square&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=FFFFFF)
